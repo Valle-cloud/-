@@ -1,0 +1,15 @@
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/bin/Debug/net6.0/задача8
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/bin/Debug/net6.0/задача8.deps.json
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/bin/Debug/net6.0/задача8.runtimeconfig.json
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/bin/Debug/net6.0/задача8.dll
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/bin/Debug/net6.0/задача8.pdb
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.csproj.AssemblyReference.cache
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.AssemblyInfoInputs.cache
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.AssemblyInfo.cs
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.csproj.CoreCompileInputs.cache
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.dll
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/refint/задача8.dll
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.pdb
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/задача8.genruntimeconfig.cache
+/Users/valentin/GIT_EDUCATION/семенар сишарп/дз1/задача8/obj/Debug/net6.0/ref/задача8.dll
